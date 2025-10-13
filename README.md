@@ -1,2 +1,1 @@
 # Learning
-Learn new knowledge
